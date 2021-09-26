@@ -1,13 +1,42 @@
-### Hi There, I'm RehanPlayz
+### Hi! I am Lellis 👋
 
-## My Stats
-![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RehanPlayz&show_icons=true&theme=monokai)
+[![Website](https://img.shields.io/website?label=lellis.xyz&style=for-the-badge&url=https%3A%2F%2Flellis.xyz)](https://lellis.xyz)
 
-## How to Contact me
-📫 RehanPlayz321@protonmail.com
+[![VC](https://shields-io-visitor-counter.herokuapp.com/badge?page=LellisV2.LellisV2&label=VISITIORS&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=5865F2&style=for-the-badge)](#)
 
-<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/>RehanPlayz#1957
+## I'm a Developer and Student
 
-### Tools I use
-<img align="left" alt="Python" width="26px" src="https://cdn.mythicalkitten.com/python.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.mythicalkitten.com/vscode.png" />
+Hello! :)
+
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+
+<details>
+  <summary>:zap: Top Languages</summary>
+  
+<!--START_SECTION:activity-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LellisV2&layout=compact&theme=tokyonight)](https://lellis.xyz)
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="LellisV2 Github Stats" src="https://github-readme-stats.vercel.app/api?username=LellisV2&show_icons=true&theme=tokyonight" />
+
+</details>
+
