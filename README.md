@@ -1,6 +1,6 @@
 ### Hi! I am RehanPlayz 👋
 
-[![Website](https://img.shields.io/website?label=lellis.xyz&style=for-the-badge&url=https%3A%2F%2Flellis.xyz)](https://lellis.xyz)
+[![Website](https://img.shields.io/website?label=RehanPlayz&style=for-the-badge&url=https%3A%2F%2Frehanplayz.gq)](https://rehanplayz.gq)
 
 [![VC](https://shields-io-visitor-counter.herokuapp.com/badge?page=RehanPlayz.RehanPlayz&label=VISITIORS&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=5865F2&style=for-the-badge)](#)
 
