@@ -1,4 +1,4 @@
-### Hi! I am RehanPlayz 👋
+### Hi! I am Rehan 👋
 
 [![Website](https://img.shields.io/website?label=RehanPlayz&style=for-the-badge&url=https%3A%2F%2Frehanplayz.tech)](https://rehanplayz.gq)
 
