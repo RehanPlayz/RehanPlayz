@@ -1,7 +1,5 @@
 ### Hi! I am Rehan 👋
 
-[![Website](https://img.shields.io/website?label=RehanPlayz&style=for-the-badge&url=https%3A%2F%2Frehanplayz.tech)](https://rehanplayz.gq)
-
 [![VC](https://shields-io-visitor-counter.herokuapp.com/badge?page=RehanPlayz.RehanPlayz&label=VISITIORS&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=5865F2&style=for-the-badge)](#)
 
 ### Languages and Tools:
@@ -31,3 +29,5 @@
 
 </details>
 
+math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/RehanPlayz/RehanPlayz/main/matrix-code-binary-uhdpaper.com-4K-8.2824.jpg');]{x0000}$}
