@@ -1,6 +1,5 @@
 ### Hi! I am Rehan 👋
 
-[![VC](https://shields-io-visitor-counter.herokuapp.com/badge?page=RehanPlayz.RehanPlayz&label=VISITIORS&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=5865F2&style=for-the-badge)](#)
 
 ### Languages and Tools:
 
